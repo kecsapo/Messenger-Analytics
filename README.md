@@ -12,6 +12,7 @@ Here is how you can do this from browser version or from the andori app:
 7. Select types of information
 8. Choose "Messages" only, then click next
 9. Change format to "JSON" and media quality to "low" and Submit request
+   
 Once the request is submitted, it might take up to a couple hours until your files are compiled. You will get a Facebook notification once it's done, you can acces itt where you pressed "Request download". Download it to Your computer, and unzip all of the folders into the same "messages" folder (this is how the folder will be named automatically).
 Move this Jupyter notebook file next to the messages folder, there you can run it.
 
